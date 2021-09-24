@@ -2,8 +2,23 @@
  
  Description :
  
-  ERS is  such a nice  and simple web based  application. In this an employee can :
-  1.Request for reimbursement on his/her official expenses  .
+  ERS is  such a nice  and simple web based  application. In this an employee can request for reimbursement of his/her official expenses to the manager of the organisation.
+  
+
+ Technologies used:
+             1.Java.
+             2. MySQL
+             3. JDBC
+             4. Servlets
+             5. Tomcat
+             6. HTML
+             7. CSS
+             
+             
+ Features: 
+ 
+
+1.Request for reimbursement on his/her official expenses  .
   2.Can display the details .
   3. Update thier details .
   4.Can also registered himself/herself in the portal if they are new employee.
@@ -16,12 +31,3 @@
   2.He can approve or deny the particular requests .
   3. He can view all employee details.
   4. He update and delete any records or employee .
-
-Technologies used:
-1.Java.
-2. MySQL
-3. JDBC
-4. Servlets
-5. Tomcat
-6. HTML
-7. CSS
