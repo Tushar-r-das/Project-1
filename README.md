@@ -1,11 +1,11 @@
-  * Employee Reimbursement System (ERS)
- ============================================================================================================
- * Description :
+  ## Employee Reimbursement System (ERS)
+ ==================================================================================
+ ## Description :
  
      ERS is  such a nice  and simple web based  application. In this an employee can request for reimbursement of his/her official expenses to the manager of the organisation.
-  ============================================================================================================
+  ==================================================================================
 
- * Technologies used :
+ ## Technologies used  
   1.Java
   2. MySQL
   3. JDBC
@@ -13,9 +13,9 @@
   5. Tomcat
   6. HTML
   7. CSS
-  ============================================================================================================      
+  ================================================================================    
              
- * Features: 
+ ## Features: 
  
 
 1.Request for reimbursement on his/her official expenses  .
