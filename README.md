@@ -18,18 +18,18 @@
   
              
  ## Features: 
- 
-
-1.Request for reimbursement on his/her official expenses  .
-  2.Can display the details .
-  3. Update thier details .
-  4.Can also registered himself/herself in the portal if they are new employee.
-  5. Can see the responses from the manger on their requests.
-  6. Can apply for multiple reimbursements.
+ 1. Employee: 
+* Employee can sign in 
+* Employee can request for reimbursement on his/her official expenses  
+* Employee can display the details 
+* Employee can update thier details .
+* Employee can see the responses from the manger on their requests.
+* Employee can apply for multiple reimbursements.
   
   
-  Manager (Admin) who also an employee in the organisation 
-  1.He can see all the  requests for reimbursement from all employee
-  2.He can approve or deny the particular requests .
-  3. He can view all employee details.
-  4. He update and delete any records or employee .
+ 2. Manager (Admin) who also an employee in the organisation:
+  * Manager can sign in
+  * Manager can see all the  requests for reimbursement from all employee
+  * Manager can approve or deny the particular requests .
+  * Manager can view all employee details.
+  * Manager can update and delete any records or employee .
