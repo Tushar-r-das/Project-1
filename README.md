@@ -7,14 +7,14 @@
      
   ======================================
 
- ## Technologies used  .
-  1.Java
-  2. MySQL
-  3. JDBC
-  4. Servlets
-  5. Tomcat
-  6. HTML
-  7. CSS
+ ## Technologies used : .
+  * Java
+  * MySQL
+  * JDBC
+  * Servlets
+  * Tomcat
+  * HTML
+  * CSS
   ==================================  
              
  ## Features: 
