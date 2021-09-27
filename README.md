@@ -35,7 +35,7 @@
   * Manager can update and delete any records or employee .
   
   # Getting started :
-  git clone 
+  git clone https://github.com/Tushar-r-das/Project-1
   
   # Usage:
  * Run maven build
