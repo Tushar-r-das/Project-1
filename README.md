@@ -33,3 +33,12 @@
   * Manager can approve or deny the particular requests .
   * Manager can view all employee details.
   * Manager can update and delete any records or employee .
+  
+  # Getting started :
+  git clone 
+  
+  # Usage:
+ * Run maven build
+ *  Run the war file in tomcat server
+ *  Project get started with home page where to choose sign up or login
+ *  Use the project user interface accordingly
